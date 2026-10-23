@@ -1,0 +1,12 @@
+# Local environments and private research must not enter the public repository.
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+private-research/
+private-data/
+consent-records/
+*.log
+.DS_Store
+Thumbs.db

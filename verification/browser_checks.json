@@ -1,0 +1,122 @@
+{
+  "executedAt": "2026-10-23T16:37:33.593Z",
+  "timezone": "Asia/Shanghai",
+  "browser": "ChatGPT in-app browser",
+  "path": "/p2-rc2/docs/",
+  "checks": [
+    {
+      "case": "aqara_extendable",
+      "expected": [
+        "发现明确不匹配项",
+        "R03"
+      ],
+      "pass": true,
+      "actual": "发现明确不匹配项\n\n结果是资料初筛，不是已确认可以购买。模拟任务与用户自行输入均不构成真人研究记录。\n\n该项资料条件相符\n杆径在所查范围内\n\n仅此项符合25–32 mm，不代表完成安装适配判断。\n\nR02 · FAC009\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n存在明确不匹配项\n该版本明确排除伸缩杆\n\nAqara E1 Rod产品页明确排除伸缩杆；杆径符合也不能抵消该限制。\n\nR03 · FAC010\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n该项资料条件相符\n帘头在FAQ已列类型中\n\n仍须检查杆表面、附件、负载、间隙等完整安装要求。\n\nR04 · FAC012\nSRC006 · Aqara E1 Rod FAQ ↗\n2026-10-22 · 沿用阶段2实际展开的Q2/Q13；本轮浏览器超时，未重读答案\n配置说明\n单开不套用对开的两台说明\n\n此处不生成最低采购数量或价格；仍按准确型号安装说明确认。\n\nR05 · 范围或输入规则\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n需进一步核实\n完整安装检查仍未完成\n\n重量、摩擦、附件、端部间隙、校准等未逐项建模。结果仅为买前资料初筛，没有实机或现场安装保证。\n\nR11 · 范围或输入规则\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control"
+    },
+    {
+      "case": "switchbot_apple",
+      "expected": [
+        "还需要核实这些条件",
+        "R07"
+      ],
+      "pass": true,
+      "actual": "还需要核实这些条件\n\n结果是资料初筛，不是已确认可以购买。模拟任务与用户自行输入均不构成真人研究记录。\n\n该项资料条件相符\n杆径在所查范围内\n\n仅此项符合10–40 mm，不代表完成安装适配判断。\n\nR02 · FAC003\nSRC001 · SwitchBot Rod Type 1 专页 ↗\n2026-10-22 · 本轮读取产品描述；不采用推荐商品的规格\n需进一步核实\n帘头和附件仍需按准确版本核对\n\n当前资料不足以给该帘头和所有附件作完整适配结论。\n\nR04 · FAC007\nSRC001 · SwitchBot Rod Type 1 专页 ↗\n2026-10-22 · 本轮读取产品描述；不采用推荐商品的规格\nSRC003 · SwitchBot Curtain 3 杆型兼容图 ↗\n2026-10-22 · 沿用阶段2看图记录，本轮未重看图片；不据此确认Type 1例外\n配置说明\n对开方案要核对两侧设备与包装\n\n通用页对开方案按两台说明；核对Type 1所购包装实际包含几台。\n\nR05 · FAC004\nSRC002 · SwitchBot Curtain 3 通用页 ↗\n2026-10-22 · Product Description，伸缩杆及对开说明\n需进一步核实\nApple Home：分别核对桥接器\n\n“已有Hub”不足以确认兼容；核对准确型号、固件与配对路径。\n\nR06 · FAC005\nSRC004 · SwitchBot Matter over Bridge 帮助页 ↗\n2026-10-22 · Required devices / Add to Apple Home\n尚缺所述配置项\nApple Home：还要核对平台控制器\n\n所查帮助页列出HomePod/Apple TV等控制器；仅有手机或桥接器不能据此认定配置完整。\n\nR07 · FAC006\nSRC004 · SwitchBot Matter over Bridge 帮助页 ↗\n2026-10-22 · Required devices / Add to Apple Home\n需进一步核实\n完整安装检查仍未完成\n\n重量、摩擦、附件、端部间隙、校准等未逐项建模。结果仅为买前资料初筛，没有实机或现场安装保证。\n\nR11 · 范围或输入规则\nSRC001 · SwitchBot Rod Type 1 专页 ↗\n2026-10-22 · 本轮读取产品描述；不采用推荐商品的规格"
+    },
+    {
+      "case": "aqara_matter",
+      "expected": [
+        "还需要核实这些条件",
+        "R08"
+      ],
+      "pass": true,
+      "actual": "还需要核实这些条件\n\n结果是资料初筛，不是已确认可以购买。模拟任务与用户自行输入均不构成真人研究记录。\n\n该项资料条件相符\n杆径在所查范围内\n\n仅此项符合25–32 mm，不代表完成安装适配判断。\n\nR02 · FAC009\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n该项资料条件相符\n帘头在FAQ已列类型中\n\n仍须检查杆表面、附件、负载、间隙等完整安装要求。\n\nR04 · FAC012\nSRC006 · Aqara E1 Rod FAQ ↗\n2026-10-22 · 沿用阶段2实际展开的Q2/Q13；本轮浏览器超时，未重读答案\n配置说明\n单开不套用对开的两台说明\n\n此处不生成最低采购数量或价格；仍按准确型号安装说明确认。\n\nR05 · 范围或输入规则\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n需进一步核实\nE1现行完整Matter路径尚未核实\n\n产品页带历史OTA说明。需要逐项确认Hub、固件、地区和平台控制器，不能输出不支持，也不能输出任意Hub都可以。\n\nR08 · FAC016\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\nSRC007 · Aqara M2 Matter 历史公告 ↗\n2026-10-22 · 历史背景，不能证明当前全部配置；本轮未重新定位E1名单\n需进一步核实\n完整安装检查仍未完成\n\n重量、摩擦、附件、端部间隙、校准等未逐项建模。结果仅为买前资料初筛，没有实机或现场安装保证。\n\nR11 · 范围或输入规则\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control"
+    },
+    {
+      "case": "negative-input-and-stale-result",
+      "pass": true,
+      "actual": {
+        "output": "",
+        "rangeUnderflow": true,
+        "valid": false,
+        "value": "-1"
+      }
+    },
+    {
+      "case": "empty-diameter",
+      "pass": true,
+      "actual": "还需要核实这些条件\n\n结果是资料初筛，不是已确认可以购买。模拟任务与用户自行输入均不构成真人研究记录。\n\n需进一步核实\n缺少杆径\n\n测量实际运行段；伸缩结构还需要检查接缝和过渡条件。\n\nR02 · FAC009\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n该项资料条件相符\n帘头在FAQ已列类型中\n\n仍须检查杆表面、附件、负载、间隙等完整安装要求。\n\nR04 · FAC012\nSRC006 · Aqara E1 Rod FAQ ↗\n2026-10-22 · 沿用阶段2实际展开的Q2/Q13；本轮浏览器超时，未重读答案\n配置说明\n单开不套用对开的两台说明\n\n此处不生成最低采购数量或价格；仍按准确型号安装说明确认。\n\nR05 · 范围或输入规则\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\n需进一步核实\nE1现行完整Matter路径尚未核实\n\n产品页带历史OTA说明。需要逐项确认Hub、固件、地区和平台控制器，不能输出不支持，也不能输出任意Hub都可以。\n\nR08 · FAC016\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control\nSRC007 · Aqara M2 Matter 历史公告 ↗\n2026-10-22 · 历史背景，不能证明当前全部配置；本轮未重新定位E1名单\n需进一步核实\n完整安装检查仍未完成\n\n重量、摩擦、附件、端部间隙、校准等未逐项建模。结果仅为买前资料初筛，没有实机或现场安装保证。\n\nR11 · 范围或输入规则\nSRC005 · Aqara E1 Rod 美国产品页 ↗\n2026-10-22 · Rods / Wide Compatibility / Multiple Control"
+    },
+    {
+      "case": "clear",
+      "pass": true,
+      "actual": "等待检查\n\n填写条件，或载入一个标明身份的模拟任务。"
+    },
+    {
+      "case": "keyboard-tab-and-enter",
+      "pass": true,
+      "actual": [
+        "product",
+        "rail",
+        "diameter",
+        "heading",
+        "opening",
+        "goal",
+        "hub",
+        "controller",
+        "检查条件与依据"
+      ]
+    },
+    {
+      "case": "subpath-navigation",
+      "pass": true,
+      "actual": "index → about → configuration under /p2-rc2/docs/"
+    },
+    {
+      "case": "mobile-layout",
+      "pass": true,
+      "actual": {
+        "result": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "note": "Requested viewport 390x844; content width 375 with scrollbar. Initial assertion incorrectly required content width 390. No app change."
+    },
+    {
+      "case": "desktop-layout-and-safe-evidence-links",
+      "pass": true,
+      "actual": {
+        "gridColumns": "339.991px 836.957px",
+        "links": [
+          {
+            "href": "https://www.aqara.com/us/product/curtain-driver-e1-rod-version/",
+            "rel": "noopener noreferrer",
+            "target": "_blank"
+          },
+          {
+            "href": "https://www.aqara.com/us/product/curtain-driver-e1-rod-version/",
+            "rel": "noopener noreferrer",
+            "target": "_blank"
+          },
+          {
+            "href": "https://store-support.aqara.com/products/aqara-smart-curtain-motor-e1-rod-version#faq",
+            "rel": "noopener noreferrer",
+            "target": "_blank"
+          },
+          {
+            "href": "https://www.aqara.com/us/product/curtain-driver-e1-rod-version/",
+            "rel": "noopener noreferrer",
+            "target": "_blank"
+          },
+          {
+            "href": "https://www.aqara.com/us/product/curtain-driver-e1-rod-version/",
+            "rel": "noopener noreferrer",
+            "target": "_blank"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265
+      }
+    }
+  ],
+  "console": []
+}

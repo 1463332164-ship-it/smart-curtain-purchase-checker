@@ -1,0 +1,163 @@
+{
+  "candidate": "p2-rc2",
+  "preparedAt": "2026-10-23T16:40:05.718554+00:00",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 220,
+      "sha256": "453ac8b49b5bfe1d9f3bab3447a8abf98587b85be1d98f02ee911c4d7b7bfa03"
+    },
+    {
+      "path": "DATA_USE.md",
+      "bytes": 1865,
+      "sha256": "7f71db407514762a043124a5cc02b00f6c59412ac90921a5445f4259c146d1f2"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/about.html",
+      "bytes": 1921,
+      "sha256": "fd34573f48ccd62061671e8eff828d33caf867bd38a01785eef30d06ab8c14e9"
+    },
+    {
+      "path": "docs/configuration-rules.js",
+      "bytes": 7716,
+      "sha256": "b970342a966c5deb543a97885bba9a53811e4de6cd8bd47ebe4569e88bc31438"
+    },
+    {
+      "path": "docs/configuration-ui.js",
+      "bytes": 2817,
+      "sha256": "5bb173cd91ce4c26e42ea82783e284de0cdfd395b9aa69700c16e465ad3f22cb"
+    },
+    {
+      "path": "docs/configuration.css",
+      "bytes": 1474,
+      "sha256": "509fbc3a7ed9419b4b7925ddb364159bfd7e456010e67c65ca0bb3ccd1574528"
+    },
+    {
+      "path": "docs/configuration.html",
+      "bytes": 5169,
+      "sha256": "3f8680a93d0cfcc7e44e5004dbd984f6b95d97acc56432896981f13b7a7ad594"
+    },
+    {
+      "path": "docs/images/aqara_extendable.png",
+      "bytes": 173991,
+      "sha256": "b3a9381c5cc5cc0b5be2038c785f64c72b0c70e8c1a6eda9201644b9b4094995"
+    },
+    {
+      "path": "docs/images/aqara_matter.png",
+      "bytes": 181712,
+      "sha256": "88c8da35410f635c8a93a4b27cd1c65b3dd7473538300240ef51c29cd9748c05"
+    },
+    {
+      "path": "docs/images/desktop.png",
+      "bytes": 84380,
+      "sha256": "41f27938a3b396b208680bde54b806184035529ffd17faa079eae6f8ac255e5d"
+    },
+    {
+      "path": "docs/images/mobile.png",
+      "bytes": 168496,
+      "sha256": "3bb7347ab184abdbb71220507b3d910916239f843573fd5ef3917011a9ad157a"
+    },
+    {
+      "path": "docs/images/switchbot_apple.png",
+      "bytes": 197001,
+      "sha256": "7469838e32b1d00e3fd526b4d516d0adf962dd4204b9b6550bd801f21814a179"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 5169,
+      "sha256": "3f8680a93d0cfcc7e44e5004dbd984f6b95d97acc56432896981f13b7a7ad594"
+    },
+    {
+      "path": "docs/styles.css",
+      "bytes": 11793,
+      "sha256": "0865f6e7e4560e21e8148a4966e5d946d0c940853864e433fe1d4a962b2a18e8"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1101,
+      "sha256": "cad068c14f531c69f91b8df84d3d5d8268c8bcde9fc7e3083d5d6956ca6ef9c4"
+    },
+    {
+      "path": "portfolio/CASE_STUDY_ZH.md",
+      "bytes": 2018,
+      "sha256": "4870daa2c17e57bd4be179cc654d47badd95b61542ab4e8e655c659a41e211a7"
+    },
+    {
+      "path": "portfolio/DEMO_SCRIPT.md",
+      "bytes": 1692,
+      "sha256": "8e7723651980aaa6ec016b2d17070f1580a0d5db259f2edd6e76e1a6a6e459e2"
+    },
+    {
+      "path": "portfolio/FEATURES.md",
+      "bytes": 1203,
+      "sha256": "22a6e6a88cc7c98ccd39466e2c5151b75be006d261f20c7c8b55398ff5598c5e"
+    },
+    {
+      "path": "portfolio/PROJECT_DESCRIPTION.md",
+      "bytes": 1101,
+      "sha256": "245db960798a1c0264471e75af34ba562949675c71e5a1571c43fec2d462fb33"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5152,
+      "sha256": "afe1c1c4a6060c94e475e5974348e3598b4ea231100fe29d9002891f3fea5f0f"
+    },
+    {
+      "path": "RELEASE_FILES.md",
+      "bytes": 2669,
+      "sha256": "7dfa15404560601bb7e37bc17edc011859a3a29e8b49bc1be316acc07efe6c70"
+    },
+    {
+      "path": "tests/configuration-ui.test.cjs",
+      "bytes": 3748,
+      "sha256": "846afeef25e8736d459e0a856699cf7b8fc9ef2ce46250f0d9eab81d5be3a5a1"
+    },
+    {
+      "path": "tests/configuration.test.cjs",
+      "bytes": 3862,
+      "sha256": "5891a2f39d54517cec011edd3519b0590e7fd8b152e65406cd291a853cb47f27"
+    },
+    {
+      "path": "verification/ACCEPTANCE.md",
+      "bytes": 4108,
+      "sha256": "11285b32616546d0a929a40c2e9b928015bf52f0734a3901dfbfe79879f8c9ab"
+    },
+    {
+      "path": "verification/browser_checks.json",
+      "bytes": 10060,
+      "sha256": "11609d69f0f772d3228f564c86ab9ecbefb1ab8a1a2bc865e890bb5da301e663"
+    },
+    {
+      "path": "verification/candidate_tests.tap",
+      "bytes": 5038,
+      "sha256": "3c2f210c594eeead8bc8ec55243dcbed710bf6f86930f2eded46589f51aeb36d"
+    },
+    {
+      "path": "verification/INTERVIEW_GUIDE.md",
+      "bytes": 2176,
+      "sha256": "6b35a16a9c31f90c6624be9339fc18fb7c45069355c05d562b187570ba887d16"
+    },
+    {
+      "path": "verification/OPEN_ISSUES.md",
+      "bytes": 1384,
+      "sha256": "cc1c38da6980ffc4eff1a5b2ad69f68061949ff5b4e0b0e05e27c490c8e90b0c"
+    },
+    {
+      "path": "verification/QUICK_MANUAL_CHECK.md",
+      "bytes": 728,
+      "sha256": "6f2343d0d65379b5bd5dc498cd168cd65fed185a86910f21e6f2ad674dc8c400"
+    },
+    {
+      "path": "verification/SOURCE_AUDIT.md",
+      "bytes": 4880,
+      "sha256": "e0f95ecd60ec58b554dd65bf0934b41b0c084c775aa0c5968154bb1334ca0544"
+    }
+  ],
+  "publication_approved": "2026-10-24",
+  "repository_url": "https://github.com/1463332164-ship-it/smart-curtain-purchase-checker"
+}

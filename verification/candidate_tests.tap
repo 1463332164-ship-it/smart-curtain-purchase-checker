@@ -1,0 +1,190 @@
+TAP version 13
+# Subtest: UI preset E1 rejects extendable rods while reporting the diameter separately
+ok 1 - UI preset E1 rejects extendable rods while reporting the diameter separately
+  ---
+  duration_ms: 9.5314
+  type: 'test'
+  ...
+# Subtest: UI preset SwitchBot reports the missing controller
+ok 2 - UI preset SwitchBot reports the missing controller
+  ---
+  duration_ms: 2.7083
+  type: 'test'
+  ...
+# Subtest: UI preset Aqara Matter retains unknown with self-reported devices
+ok 3 - UI preset Aqara Matter retains unknown with self-reported devices
+  ---
+  duration_ms: 2.875
+  type: 'test'
+  ...
+# Subtest: UI editing invalidates rendered conclusions and marks custom input
+ok 4 - UI editing invalidates rendered conclusions and marks custom input
+  ---
+  duration_ms: 3.214
+  type: 'test'
+  ...
+# Subtest: UI clear restores waiting state and clears stale indicator
+ok 5 - UI clear restores waiting state and clears stale indicator
+  ---
+  duration_ms: 3.7271
+  type: 'test'
+  ...
+# Subtest: UI blank numeric value becomes unknown, not zero
+ok 6 - UI blank numeric value becomes unknown, not zero
+  ---
+  duration_ms: 2.3582
+  type: 'test'
+  ...
+# Subtest: UI renderer handles rule-level invalid input without throwing
+ok 7 - UI renderer handles rule-level invalid input without throwing
+  ---
+  duration_ms: 1.8887
+  type: 'test'
+  ...
+# Subtest: UI evidence anchors preserve https and safe new-tab attributes
+ok 8 - UI evidence anchors preserve https and safe new-tab attributes
+  ---
+  duration_ms: 2.4762
+  type: 'test'
+  ...
+# Subtest: SIM01 E1杆径符合，但伸缩杆被明确排除
+ok 9 - SIM01 E1杆径符合，但伸缩杆被明确排除
+  ---
+  duration_ms: 2.381
+  type: 'test'
+  ...
+# Subtest: SIM02 E1下边界25mm仅杆径项符合
+ok 10 - SIM02 E1下边界25mm仅杆径项符合
+  ---
+  duration_ms: 0.3641
+  type: 'test'
+  ...
+# Subtest: SIM03 E1上边界32mm仅杆径项符合
+ok 11 - SIM03 E1上边界32mm仅杆径项符合
+  ---
+  duration_ms: 0.3084
+  type: 'test'
+  ...
+# Subtest: SIM04 E1超出上限
+ok 12 - SIM04 E1超出上限
+  ---
+  duration_ms: 0.279
+  type: 'test'
+  ...
+# Subtest: SIM05 E1低于下限
+ok 13 - SIM05 E1低于下限
+  ---
+  duration_ms: 0.2921
+  type: 'test'
+  ...
+# Subtest: SIM06 空杆径不是0或不支持
+ok 14 - SIM06 空杆径不是0或不支持
+  ---
+  duration_ms: 0.3591
+  type: 'test'
+  ...
+# Subtest: SIM07 Type1细伸缩杆不被自动放行
+ok 15 - SIM07 Type1细伸缩杆不被自动放行
+  ---
+  duration_ms: 0.2182
+  type: 'test'
+  ...
+# Subtest: SIM08 Type1超出专页杆径范围
+ok 16 - SIM08 Type1超出专页杆径范围
+  ---
+  duration_ms: 0.1956
+  type: 'test'
+  ...
+# Subtest: SIM09 所查Apple桥接路径缺品牌桥接器
+ok 17 - SIM09 所查Apple桥接路径缺品牌桥接器
+  ---
+  duration_ms: 0.1869
+  type: 'test'
+  ...
+# Subtest: SIM10 有桥接器仍缺所查平台控制器
+ok 18 - SIM10 有桥接器仍缺所查平台控制器
+  ---
+  duration_ms: 0.317
+  type: 'test'
+  ...
+# Subtest: SIM11 自报已有设备不能变成已验证兼容
+ok 19 - SIM11 自报已有设备不能变成已验证兼容
+  ---
+  duration_ms: 0.3302
+  type: 'test'
+  ...
+# Subtest: SIM12 E1未知现行Matter路径不是不支持
+ok 20 - SIM12 E1未知现行Matter路径不是不支持
+  ---
+  duration_ms: 0.1619
+  type: 'test'
+  ...
+# Subtest: SIM13 单开不自动生成两台采购要求
+ok 21 - SIM13 单开不自动生成两台采购要求
+  ---
+  duration_ms: 0.1275
+  type: 'test'
+  ...
+# Subtest: SIM14 对开明确区分配置与套装
+ok 22 - SIM14 对开明确区分配置与套装
+  ---
+  duration_ms: 0.2644
+  type: 'test'
+  ...
+# Subtest: SIM15 轨道不在规则范围不等于硬件不支持
+ok 23 - SIM15 轨道不在规则范围不等于硬件不支持
+  ---
+  duration_ms: 0.1444
+  type: 'test'
+  ...
+# Subtest: SIM16 Aqara App路径缺Hub
+ok 24 - SIM16 Aqara App路径缺Hub
+  ---
+  duration_ms: 0.4148
+  type: 'test'
+  ...
+# Subtest: SIM17 帘头未列不能断言不支持
+ok 25 - SIM17 帘头未列不能断言不支持
+  ---
+  duration_ms: 0.1753
+  type: 'test'
+  ...
+# Subtest: SIM18 资料条件符合也不能跳过现场检查
+ok 26 - SIM18 资料条件符合也不能跳过现场检查
+  ---
+  duration_ms: 0.294
+  type: 'test'
+  ...
+# Subtest: 明确不匹配优先显示，仍保留其它待核项
+ok 27 - 明确不匹配优先显示，仍保留其它待核项
+  ---
+  duration_ms: 0.7968
+  type: 'test'
+  ...
+# Subtest: 所有场景不能返回购买许可或真人研究指标
+ok 28 - 所有场景不能返回购买许可或真人研究指标
+  ---
+  duration_ms: 0.2653
+  type: 'test'
+  ...
+# Subtest: 全部规则来源ID存在且URL使用https
+ok 29 - 全部规则来源ID存在且URL使用https
+  ---
+  duration_ms: 0.3182
+  type: 'test'
+  ...
+# Subtest: 非法输入明确拒绝，不把NaN或负数当未知
+ok 30 - 非法输入明确拒绝，不把NaN或负数当未知
+  ---
+  duration_ms: 0.307
+  type: 'test'
+  ...
+1..30
+# tests 30
+# suites 0
+# pass 30
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 296.9918
