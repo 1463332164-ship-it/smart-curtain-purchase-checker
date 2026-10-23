@@ -54,7 +54,7 @@ AI assisted with research organization, implementation, testing and documentatio
 
 ## 发布与许可 / Publication and license
 
-公开代码仓库：[smart-curtain-purchase-checker](https://github.com/1463332164-ship-it/smart-curtain-purchase-checker)。GitHub Pages部署目标为main分支的/docs；公开演示地址在部署成功后补充。见[发布清单](RELEASE_FILES.md)。
+公开代码仓库：[smart-curtain-purchase-checker](https://github.com/1463332164-ship-it/smart-curtain-purchase-checker)。GitHub Pages部署目标为main分支的/docs；公开演示：[打开配置初筛器](https://1463332164-ship-it.github.io/smart-curtain-purchase-checker/)。见[发布清单](RELEASE_FILES.md)。
 
 自有可许可代码及原创说明采用[MIT](LICENSE)；第三方材料和商标保留原权利，范围见[DATA_USE](DATA_USE.md)。项目所有者已于2026-10-24授权此候选清单的公开发布与Pages部署；执行状态以验收记录为准。没有自动部署或远程推送脚本。
 
@@ -63,3 +63,7 @@ AI assisted with research organization, implementation, testing and documentatio
 ![桌面运行截图](docs/images/desktop.png)
 
 [手机截图](docs/images/mobile.png) · [可复制中英文简介](portfolio/PROJECT_DESCRIPTION.md) · [面试问答](verification/INTERVIEW_GUIDE.md) · [开放事项](verification/OPEN_ISSUES.md)
+
+## 发布验收状态 / Online verification
+
+2026-10-24：GitHub Pages已部署，main分支/docs。在线HTTP检查13/13通过，远程32文件与候选字节一致。真实线上浏览器控件、布局和截图检查因自动化工具持续超时尚未完成；下方界面截图及既有10组浏览器记录来自发布前本地验收，不能当作线上证据。详情见[验收记录](verification/ACCEPTANCE.md)。

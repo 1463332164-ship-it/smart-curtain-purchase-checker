@@ -89,8 +89,8 @@
     },
     {
       "path": "portfolio/DEMO_SCRIPT.md",
-      "bytes": 1692,
-      "sha256": "8e7723651980aaa6ec016b2d17070f1580a0d5db259f2edd6e76e1a6a6e459e2"
+      "bytes": 3083,
+      "sha256": "b925fa40e4fde96970a4570f07bd70b81307582ca18ded00f4b10e6e901f6439"
     },
     {
       "path": "portfolio/FEATURES.md",
@@ -104,13 +104,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 5152,
-      "sha256": "afe1c1c4a6060c94e475e5974348e3598b4ea231100fe29d9002891f3fea5f0f"
+      "bytes": 5646,
+      "sha256": "ce3aa06108f33a3ce5f64e4f568f7a444df8724f0496e9990f638318f85c35ac"
     },
     {
       "path": "RELEASE_FILES.md",
-      "bytes": 2669,
-      "sha256": "7dfa15404560601bb7e37bc17edc011859a3a29e8b49bc1be316acc07efe6c70"
+      "bytes": 3048,
+      "sha256": "fb518ba5e471e8ac303eb6fe0f19a19644dde517e45c17a79ee7992d40e9d8eb"
     },
     {
       "path": "tests/configuration-ui.test.cjs",
@@ -124,8 +124,8 @@
     },
     {
       "path": "verification/ACCEPTANCE.md",
-      "bytes": 4108,
-      "sha256": "11285b32616546d0a929a40c2e9b928015bf52f0734a3901dfbfe79879f8c9ab"
+      "bytes": 5902,
+      "sha256": "132d49197e1d659967c7839f2817fda433a9b694b37da8bb0549c91b2fe11670"
     },
     {
       "path": "verification/browser_checks.json",
@@ -144,8 +144,8 @@
     },
     {
       "path": "verification/OPEN_ISSUES.md",
-      "bytes": 1384,
-      "sha256": "cc1c38da6980ffc4eff1a5b2ad69f68061949ff5b4e0b0e05e27c490c8e90b0c"
+      "bytes": 1448,
+      "sha256": "4e5b1697efc5b69edfdd188c1629c2dba6fef3c7a372dee71d18ad0bb1db9074"
     },
     {
       "path": "verification/QUICK_MANUAL_CHECK.md",
@@ -159,5 +159,8 @@
     }
   ],
   "publication_approved": "2026-10-24",
-  "repository_url": "https://github.com/1463332164-ship-it/smart-curtain-purchase-checker"
+  "repository_url": "https://github.com/1463332164-ship-it/smart-curtain-purchase-checker",
+  "published": true,
+  "pages_url": "https://1463332164-ship-it.github.io/smart-curtain-purchase-checker/",
+  "publication_date": "2026-10-24"
 }

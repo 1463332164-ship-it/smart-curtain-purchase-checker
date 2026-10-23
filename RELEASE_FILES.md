@@ -40,3 +40,9 @@ GitHub Pages允许分支的根目录或docs作为发布来源；这里选docs以
 ## 2026-10-24授权与执行
 
 所有者已批准清单内32个文件公开发布、上述MIT边界及main/docs的Pages方案。代码仓库：https://github.com/1463332164-ship-it/smart-curtain-purchase-checker 。部署与线上验收结果见verification/ACCEPTANCE.md；此处保留发布前检查步骤作为历史流程。
+
+实际公开仓库：https://github.com/1463332164-ship-it/smart-curtain-purchase-checker
+
+实际Pages：https://1463332164-ship-it.github.io/smart-curtain-purchase-checker/
+
+2026-10-24：已发布32文件，main/docs部署成功；线上HTTP与文件一致性通过，真实线上浏览器交互验收仍待完成。原“公开前与公开后”步骤为历史流程。
